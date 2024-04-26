@@ -424,7 +424,7 @@ class Main:
 			print("    Thanks🥰♥️")
 			exit()
 		elif FADI in ["1", "01"]:
-			os.system("xdg-open https://youtube.com/@mrfadi316")
+			os.system("xdg-open https://youtu.be/fVA07PNxpcY?si=2E0CZDnty9oin4QL")
 			print("")
 			time.sleep(2.0)
 			print("\033[1;33m    What's Your Name")
