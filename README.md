@@ -2,7 +2,7 @@
 New FB ids cloning Tool by Mr Fadi.
 *Doesn't Works On Pydroid*
 # INSTALL TREMUX 
-     👾Hacker👾
+     👾Mr Fadi👾
  🌝Login with any token & cookies (clone fb idz)🌝
 ♦Must Install Packages👇
     
