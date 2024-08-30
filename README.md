@@ -3,7 +3,7 @@ Fixed Version
 New FB ids cloning Tool by Mr Fadi.
 *Doesn't Works On Pydroid*
 # INSTALL TREMUX 
-     👾Mr Fadi👾
+     👾git clone https://github.com/mrfadi316/fadicloner👾
  🌝Login with any token & cookies (clone fb idz)🌝
 ♦Must Install Packages👇
     
@@ -23,9 +23,9 @@ New FB ids cloning Tool by Mr Fadi.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/mrfadi316/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/raj-singh/100057503644628/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mrfadi316/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mrfadi316/" height="30" width="40" /></a>
 <a href="https://instagram.com/mrfadi316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/mrfadi316" height="30" width="40" /></a>  
-<a href="https://youtube.com/@mrfadi316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/mrfadi316" height="30" width="40" /></a>
+<a href="https://youtube.com/@mrfadi316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@mrfadi316" height="30" width="40" /></a>
 </p>
 
 
