@@ -3,23 +3,27 @@ Fixed Version
 New FB ids cloning Tool by Mr Fadi.
 *Doesn't Works On Pydroid*
 # INSTALL TREMUX 
-     👾git clone https://github.com/mrfadi316/fadicloner👾
+     git clone https://github.com/mrfadi316/fadicloner
  🌝Login with any token & cookies (clone fb idz)🌝
 ♦Must Install Packages👇
     
       apt update
+      apt update
       apt upgrade
-      apt install git
-      apt install python
-      apt install python2
+      pkg update 
+      pkg upgrade 
+      pkg install git
+      pkg install python
+      pkg install python2
+      pkg install python3
       pip install bs4
       pip install pyfiglet 
       pip install requests 
       git clone https://github.com/mrfadi316/fadicloner
-      ls
-      cd fadicloner 
-      ls
-      python Fadi.py
+       ls
+       cd fadicloner 
+       ls
+       python Fadi.py
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
